@@ -1,9 +1,8 @@
-# Responsive Admin Dashboard
+# Responsive User Dashboard
 
 This is a responsive admin dashboard built using **HTML 5**, **CSS 3**, and **JavaScript**. Charts are built using **ApexCharts 3**.
 
-![plot](https://github.com/BobsProgrammingAcademy/Responsive-Admin-Dashboard/blob/master/images/large.png?raw=true)
-
+![plot]
 ## Table of Contents 
 - [Prerequisites](#prerequisites)
 - [Running the application](#run-the-application)
@@ -22,7 +21,7 @@ Install the following prerequisites:
 
 To run the application, start the **Live Server** by clicking **Go Live** in the bottom right corner of the status bar in Visual Studio Code. This action will load the website in your default web browser. 
 
-![plot](https://github.com/BobsProgrammingAcademy/Responsive-Admin-Dashboard/blob/master/images/vscode.png?raw=true)
+![plot]
 
 ### View the application
 
